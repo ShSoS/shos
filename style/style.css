@@ -1,0 +1,225 @@
+* {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+body {
+	font-size: 18px;
+	width: 100%;
+	height: 100%;
+	background-image: url('img/2.png');
+}
+nav {
+	text-align: center;
+	width: 100%;
+	background-color: #208dc4; 
+}
+nav img {
+	padding-left: 20px;
+	width: 30px;
+	height: 30px;
+}
+.main_content {
+	width: 20%;
+	text-align: left;
+}
+.main_content h3 {
+	border-bottom: 1px solid #208dc4;
+	margin:20px 0px 20px 0px;
+}
+
+.main_content .userfile {
+	width: 200px;
+	border: none;
+}
+
+.main_content #submit{
+	width: 130px;
+	text-align: center;
+}
+
+.main_content label {
+	color: #208dc4; 
+}
+
+#userfile {
+	float: right;
+	border: none;
+	padding-right: -200px
+}
+
+.main_content {
+	color: #208dc4;
+}
+
+.main_content input{
+	color: #208dc4;
+	padding-left: 15px;
+	border: 1px solid #c0d7e1;
+	width: 180px;
+	height: 30px;
+}
+
+.change_profile_pictures input{
+	margin: 5%;
+}
+
+.change_profile_pictures img {
+	max-width: 200px;
+	max-height: 235px;
+	border: 1px solid #208dc4;
+	margin-bottom: 20px;
+}
+
+.profil_navigation ul {
+	list-style-type: none;
+}
+
+.main_content_profil {
+	width: 70%;
+	height: 100%;
+}
+
+.profil_navigation {
+	float: left;
+	width: 30%;
+	height: 100%;
+	
+}
+
+.profil_navigation ul {
+	margin-top: 50px;
+}
+
+.profil_navigation li {
+	float: left;
+	width: 240px;
+	padding: 20px 0px 20px 25px;
+	background-color: #c0d7e1;
+	margin-top: 5px;
+	border-right: 5px solid #208dc4;
+}
+
+.profil_navigation a {
+
+	font-size: 22px;
+	text-decoration: none;
+	color: #208dc4;
+	cursor: pointer;
+}
+
+.profil_navigation a:hover {
+	text-decoration: none;
+	font-size: 22px;
+	color: #c0d7e1;
+	background-color: #208dc4;
+}
+
+.profil_navigation a li:hover {
+	background-color: #208dc4;
+}
+
+.arrow_img, .arrow_img_hover {
+	float: right;
+	width: 45px;
+	height: 35px;
+	display: none;
+	padding-right:30px;
+	margin-top: -5px;
+	margin-bottom: -5px;
+}
+
+
+.profil_data {
+	float: right;
+	width: 70%;
+	height: 100%;
+}
+
+.dropdowns{
+	color: #208dc4;
+	width: 160px;
+	height: 30px;
+	cursor: pointer;
+	background-color: #fff;
+	padding-left: 15px;
+	margin: 50px 0 20px 200px;
+	border-bottom: 1px solid #adaeaf;
+}
+
+.dropdowns option {
+	color: #208dc4;
+	background-color: #c0d7e1;
+	cursor: pointer;
+}
+
+.dropdowns option:hover {
+	color: #fff;
+	background-color: #c0d7e1;
+	cursor: pointer;
+}
+
+.profil_data table {
+	margin: 0 auto;
+	padding: 50px;
+	width: 70%;
+	border-top: 1px solid #bdc0c2;
+}
+
+.profil_data table td {
+	padding: 5px;
+	color: #208dc4;
+}
+
+.profil_data table td input {
+	color: #208dc4;
+	padding-left: 15px;
+	border: 1px solid #c0d7e1;
+	width: 280px;
+	height: 30px;
+}
+
+.profil_data table td #gender {
+	color: #208dc4;
+	padding-left: 15px;
+	border: 1px solid #c0d7e1;
+	width: 300px;
+	height: 30px;
+}
+
+.profil_data table td textarea {
+	color: #208dc4;
+	padding: 15px;
+	border: 1px solid #c0d7e1;
+	width: 265px;
+	height: 100px;
+	resize: none;
+}
+
+#button_submit {
+	padding: 0;
+	color: #208dc4;
+	width: 100px;
+	height: 30px;
+	margin-right: 20px;
+}
+
+table select {
+	color: #208dc4;
+	width: 160px;
+	height: 30px;
+	cursor: pointer;
+	background-color: #c0d7e1;
+	padding-left: 15px;
+}
+
+table select > option {
+	color: #208dc4;
+	background-color: #c0d7e1;
+	cursor: pointer;
+}
+
+table select > option:hover {
+	color: #fff;
+	background-color: #c0d7e1;
+	cursor: pointer;
+}

@@ -1,0 +1,169 @@
+@font-face
+ {
+font-family: font;
+src: url('fonts/font2.woff');
+}
+body {
+	margin: 0 auto;	
+	background-image: url('img/portfolio_bg.png');
+	font-family: font;
+}
+
+h3 {
+	text-align: center;
+}
+
+.main_content {
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 1400px;
+	height: 800px;
+}
+
+.content_left {
+	float:left;
+	width:25%;
+	height: 100%;
+	background-color: #208dc4;
+
+}
+.navigation_img {
+	margin: 10px 0px 0px 10px;
+	width: 20px;
+	height: 20px;
+}
+.user_info {
+	margin: 0 auto;
+	margin-top: 8px;
+	width: 80%;
+	height: 80%;
+}
+.profil_img {
+	width: 100%;
+	height: 50%;
+	background-color: #44aadd;
+	float: left;
+}
+.profil_img img {
+	width: 80%;
+	height: 80%;
+	margin:10%;
+}
+.profil_name {
+	width: 90%;
+	height: 10%;
+	color: white;
+	font-size: 25px;
+	padding-left:5%; 
+	border-bottom: 1px  white solid;
+	text-shadow:none;
+
+}
+.profil_info {
+	width: 95%;
+	height: 70%;
+	color: #a1c5f7;
+	margin-top: 20px;
+	float: left;
+	padding-left: 5%;
+}
+.pdf_button {
+	margin: 200px 5% 15% 7%;
+}
+.content_middle {
+	margin: 0 auto;
+	width: 45%;
+	height: 100%;
+	background-color: white;
+	float: left;
+	overflow:auto;
+}
+.content_middle h3 {
+	color: #666;
+}
+.projects {
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: white;
+}
+.project {
+	width: 100%;
+	height: 30%;
+	margin-top: 5%;
+	border-bottom: 1px #208dc4 solid;
+}
+.project_pic {
+	width: 180px;
+	height: 150px;
+	background-color: #666;
+	margin: 20px;
+	float: left;
+}
+.project_pic img {width: 100%;height: 100%;}
+
+.project_info {
+	width: 60%;
+	height: 100%;
+	margin-left: 15px;
+	float: left;
+	color: #8ebfd7;
+	line-height: 1;
+}
+
+.content_right {
+	line-height: 1;
+	margin: 0 auto;
+	width: 30%;
+	height: 100%;
+	float: right;
+	overflow: auto;
+
+	background-image: url('img/portfolio_bg.png');
+}
+
+.social_header {
+	width: 100%;
+	height: 8%;
+	background-color: #208dc4;
+}
+.social_img {
+	padding: 8px;
+	width: 10%;
+	height: 70%;
+	float: right;
+}
+.more_info {
+	background-color: white;
+	width: 100%;
+	height: 89%;
+	padding-top: 5%;
+}
+
+#education_show, #achivement_show, #courses_show, #work_experience_show, #language_show {
+	text-align: left;
+	width: 70%;
+	height: 15%;
+	margin-left: 45px;
+	padding: 13px 0px 13px 30px;
+	background-color: #208dc4;
+	color: #bce0f2;
+}
+#education_show img, #achivement_show img, #courses_show img, #work_experience_show img, #language_show img {
+	float: right;
+	padding: 0px 30px 13px 0px;
+}
+
+		
+.tabBody{
+	width: 80%;
+	display: none;
+}	
+.tabBody ul{
+	list-style: none;
+	width: 80%;
+	margin-left: 20px;
+}
+		
+		
+			

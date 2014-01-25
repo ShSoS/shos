@@ -1,0 +1,701 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"member",
+				"membership_model"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"user",
+				"user_profil"
+			],
+			[
+				"resp",
+				"Responsibilities"
+			],
+			[
+				"Ci",
+				"citizenship"
+			],
+			[
+				"use",
+				"user_profil"
+			],
+			[
+				"re",
+				"reading"
+			],
+			[
+				"l",
+				"listening"
+			],
+			[
+				"mon",
+				"month_finish"
+			],
+			[
+				"yea",
+				"year_finish"
+			],
+			[
+				"mont",
+				"month_finish"
+			],
+			[
+				"year",
+				"year_finish"
+			],
+			[
+				"ye",
+				"year_start"
+			],
+			[
+				"MONT",
+				"month_finish"
+			],
+			[
+				"compa",
+				"company_contact"
+			],
+			[
+				"company",
+				"company"
+			],
+			[
+				"add",
+				"additionnal_info"
+			],
+			[
+				"project",
+				"project_name"
+			],
+			[
+				"quali",
+				"qualification"
+			],
+			[
+				"ci",
+				"citizenship"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"wor",
+				"work_expience"
+			],
+			[
+				"qu",
+				"qualities"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"pro",
+				"profil_qualities"
+			],
+			[
+				"prof",
+				"profil_qualities"
+			],
+			[
+				"mem",
+				"membership_model"
+			],
+			[
+				"inse",
+				"inser_images"
+			],
+			[
+				"iam",
+				"image_data"
+			],
+			[
+				"fu",
+				"full_path"
+			],
+			[
+				"thu",
+				"thumbs"
+			],
+			[
+				"thum",
+				"thumb_url"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"ga",
+				"gallery_path_url"
+			],
+			[
+				"gall",
+				"gallery_path_url"
+			],
+			[
+				"gale",
+				"gallery_path"
+			],
+			[
+				"array_",
+				"array_diff"
+			],
+			[
+				"image",
+				"image_data"
+			],
+			[
+				"do",
+				"do_upload"
+			],
+			[
+				"galle",
+				"gallery_path"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"mode",
+				"model_insert"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"co",
+				"consilium"
+			],
+			[
+				"is_lo",
+				"is_logged_in"
+			],
+			[
+				"gen",
+				"general_info"
+			],
+			[
+				"sin",
+				"singup"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"min",
+				"min_length"
+			],
+			[
+				"form",
+				"form_validation"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"Pa",
+				"Password"
+			],
+			[
+				"logi",
+				"login_validation"
+			],
+			[
+				"ins",
+				"institution"
+			],
+			[
+				"proj",
+				"project_name"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"com",
+				"company_contact"
+			],
+			[
+				"model_",
+				"model_insert"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"count",
+				"country"
+			],
+			[
+				"In",
+				"Info"
+			],
+			[
+				"month",
+				"month_finish"
+			],
+			[
+				"form_",
+				"form_input"
+			],
+			[
+				"gener",
+				"general_info"
+			],
+			[
+				"tex",
+				"text1"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"empt",
+				"empty"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"in",
+				"insert1"
+			],
+			[
+				"T",
+				"this"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"val",
+				"val2"
+			],
+			[
+				"v",
+				"val2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ShSoS/Desktop/srele praktikum/sajt/application/models/users_model.php",
+			"settings":
+			{
+				"buffer_size": 801,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ShSoS/Desktop/srele praktikum/sajt/application/views/hotel-single.php",
+			"settings":
+			{
+				"buffer_size": 6376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/ShSoS/Desktop/srele praktikum/sajt/application/controllers/login.php",
+			"settings":
+			{
+				"buffer_size": 2225,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Consilium/application/views/profil_hobbies.php",
+		"/C/xampp/htdocs/Consilium/application/controllers/consilium.php",
+		"/C/xampp/htdocs/Consilium/application/views/download_pdf.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_project.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_language.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_work_exp.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_education.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_general_info.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_courses.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_achivement.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_qualities.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_navigation.php",
+		"/C/xampp/htdocs/Consilium/application/models/model_get.php",
+		"/C/Users/ShSoS/Downloads/index.php",
+		"/C/xampp/htdocs/Consilium/application/libraries/dompdf_gen.php",
+		"/C/xampp/htdocs/Consilium/application/controllers/dompdf_test.php",
+		"/C/xampp/htdocs/xampp/php.php",
+		"/C/xampp/htdocs/Consilium/application/libraries/dompdf_0-6-0_beta3.tar.gz",
+		"/C/xampp/htdocs/Consilium/application/views/site_header.php",
+		"/C/xampp/htdocs/Consilium/script/script.js",
+		"/C/xampp/htdocs/Consilium/application/libraries/pdf.php",
+		"/C/xampp/htdocs/Consilium/application/models/membership_model.php",
+		"/C/xampp/htdocs/Consilium/application/views/home_page.php",
+		"/C/xampp/htdocs/Consilium/application/views/user_profil.php",
+		"/C/xampp/htdocs/Consilium/application/views/login.php",
+		"/C/xampp/htdocs/Consilium/application/views/authentication.php",
+		"/C/xampp/htdocs/vezba/images/thumbs/Untitled.jpg",
+		"/C/Users/ShSoS/Desktop/ci_series/application/models/gallery_model.php",
+		"/C/xampp/htdocs/vezba/images/Untitled.jpg",
+		"/C/xampp/htdocs/vezba/application/config/routes.php",
+		"/C/xampp/htdocs/Consilium/application/config/config.php",
+		"/C/xampp/htdocs/Consilium/application/controllers/login.php",
+		"/C/xampp/htdocs/Consilium/application/views/singup.php",
+		"/C/xampp/htdocs/Consilium/application/config/autoload.php",
+		"/C/xampp/htdocs/Consilium/application/views/site_navigation.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_header.php",
+		"/C/xampp/htdocs/Consilium/application/views/profil_hobbis.php",
+		"/C/xampp/htdocs/Consilium/application/models/rubick.php",
+		"/C/xampp/htdocs/Consilium/.htaccess",
+		"/C/xampp/htdocs/Consilium/application/config/database.php",
+		"/C/xampp/htdocs/Consilium/application/config/routes.php",
+		"/C/xampp/htdocs/vezba/application/config/config.php",
+		"/C/xampp/htdocs/Consilium/style/style.css",
+		"/C/xampp/htdocs/Consilium/application/views/content_home.php",
+		"/C/xampp/htdocs/Consilium/application/views/content_about.php",
+		"/C/xampp/htdocs/Consilium/application/views/content_contact.php",
+		"/C/xampp/htdocs/Consilium/application/controllers/PROBE.PHP",
+		"/C/xampp/htdocs/Consilium/application/views/site_nav.php",
+		"/C/xampp/htdocs/Consilium/application/models/get_db.php",
+		"/C/xampp/htdocs/Consilium/application/views/site_footer.php",
+		"/C/xampp/htdocs/Consilium/application/views/index.php",
+		"/C/xampp/htdocs/Consilium/application/views/view_db.php",
+		"/C/xampp/htdocs/Consilium/application/views/view_about.php",
+		"/C/xampp/htdocs/Consilium/application/models/math.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/Consilium/application/.htaccess",
+		"/C/Users/ShSoS/Downloads/CodeIgniter_2.1.4/application/.htaccess",
+		"/C/Users/ShSoS/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/ShSoS/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ShSoS/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/ShSoS/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</p>\"",
+			"> ",
+			"$descrition",
+			"$responsibilities",
+			"res",
+			"pdf.php",
+			"marital",
+			"$this->load->library",
+			"$this->load->library('image_lib');",
+			"->))",
+			"profil_header.php",
+			"institution",
+			" ?></",
+			"title",
+			"AllowOverride ",
+			"#LoadModule rewrite_module modules/mod_rewrite.so",
+			"AllowOverride",
+			"modules/mod_rewrite.so",
+			"#LoadModule rewrite_module modules/mod_rewrite.so",
+			"\"]);\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ShSoS/Desktop/srele praktikum/sajt/application/models/users_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/ShSoS/Desktop/srele praktikum/sajt/application/views/hotel-single.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/ShSoS/Desktop/srele praktikum/sajt/application/controllers/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "srele.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

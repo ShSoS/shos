@@ -1,0 +1,96 @@
+.contact{
+  margin-left: 7%;
+}
+#envelope { 
+  /*background-color: white;*/
+  box-shadow: 0 0 10px #999;
+  height: 175px;
+  margin: 200px auto 0;
+  position: relative;
+  width: 300px;
+}
+#envelope > * { position: absolute; }
+.centered { 
+  height: 90%;
+  left: 7px; 
+  text-align: center;
+  top: 0;
+  width: 95%; }
+
+#envelope, #back, #front { border-radius: 0 0 5px 5px; }
+#back {
+  /*background-image: linear-gradient(to bottom, #aaa 0%, #bbb 10%, #aaa 100%);*/
+  background-color: #bbb;
+  height: 100%;
+  left: 0;
+  position: relative;
+  top: 0;
+}
+#back:before {
+  border-color: transparent transparent #bbb;
+  border-style: solid;
+  border-width: 100px 150px;
+  content: '';
+  display: block;
+  position: absolute;
+  height: 0;
+  top: -200px;
+  width: 0;
+}
+#front {
+  border-color: transparent #e7e7e7 #eee;
+  border-style: solid;
+  border-width: 87px 150px;
+  height: 0;
+  left: 0;
+  top: 0;
+  width: 0;
+  z-index: 5;
+}
+
+.letters { 
+  background-color: #f5f5f5;
+  border-radius: 2px;
+  box-shadow: 0 0 5px #555;
+  padding-top: 10px;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  -webkit-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+.letters.untucked {
+  -webkit-transform: translate(0,-70px);
+  -moz-transform: translate(0,-70px);
+  -o-transform: translate(0,-70px);
+  transform: translate(0,-70px);
+}
+
+#letter_cover {
+  background: linear-gradient(to bottom, #eee 0%, #aaa 100%);
+  background-color: red;
+  box-shadow: 0 0 3px #999;
+  padding-top: 10px;
+}
+#question_tracker::selection {
+  background: transparent;
+}
+.question { display: block; }
+#prev_question, #next_question {
+  border-style: solid;
+  border-width: 7px;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  z-index: 10;
+}
+#prev_question { border-color: transparent #222 transparent transparent; }
+#next_question { border-color: transparent transparent transparent #222; }
+
+#contact_submit{
+  border: 1px solid #999;
+  width: 70px;
+  height: 25px;
+  float: left;
+  margin-top: 50px;
+  margin-left: -35px;
+}
